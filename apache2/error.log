@@ -1,0 +1,20 @@
+[Tue May 10 17:13:29.011073 2022] [mpm_event:notice] [pid 14786:tid 139966625799232] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Tue May 10 17:13:29.011205 2022] [core:notice] [pid 14786:tid 139966625799232] AH00094: Command line: '/usr/sbin/apache2'
+[Wed May 11 04:35:55.019684 2022] [mpm_event:notice] [pid 14786:tid 139966625799232] AH00491: caught SIGTERM, shutting down
+[Wed May 11 04:38:06.042742 2022] [mpm_event:notice] [pid 776:tid 140178257513536] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Wed May 11 04:38:06.043713 2022] [core:notice] [pid 776:tid 140178257513536] AH00094: Command line: '/usr/sbin/apache2'
+[Wed May 11 06:13:04.178914 2022] [mpm_event:notice] [pid 776:tid 140178257513536] AH00491: caught SIGTERM, shutting down
+[Wed May 11 06:13:05.717515 2022] [mpm_event:notice] [pid 17460:tid 140334956706880] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Wed May 11 06:13:05.717661 2022] [core:notice] [pid 17460:tid 140334956706880] AH00094: Command line: '/usr/sbin/apache2'
+[Wed May 11 06:16:56.365185 2022] [mpm_event:notice] [pid 17460:tid 140334956706880] AH00491: caught SIGTERM, shutting down
+[Wed May 11 06:19:53.870828 2022] [mpm_event:notice] [pid 1062:tid 140236418464832] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Wed May 11 06:19:53.873706 2022] [core:notice] [pid 1062:tid 140236418464832] AH00094: Command line: '/usr/sbin/apache2'
+[Wed May 11 12:11:27.945038 2022] [mpm_event:notice] [pid 1110:tid 140070456093760] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Wed May 11 12:11:27.949328 2022] [core:notice] [pid 1110:tid 140070456093760] AH00094: Command line: '/usr/sbin/apache2'
+[Wed May 11 16:24:27.448749 2022] [mpm_event:notice] [pid 1059:tid 140207459736640] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Wed May 11 16:24:27.451750 2022] [core:notice] [pid 1059:tid 140207459736640] AH00094: Command line: '/usr/sbin/apache2'
+[Wed May 11 16:54:24.359360 2022] [mpm_event:notice] [pid 1059:tid 140207459736640] AH00491: caught SIGTERM, shutting down
+[Wed May 11 16:55:09.647781 2022] [mpm_event:notice] [pid 1154:tid 139758995598400] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Wed May 11 16:55:09.649073 2022] [core:notice] [pid 1154:tid 139758995598400] AH00094: Command line: '/usr/sbin/apache2'
+[Thu May 12 08:02:16.830652 2022] [mpm_event:notice] [pid 1085:tid 140505276750912] AH00489: Apache/2.4.41 (Ubuntu) configured -- resuming normal operations
+[Thu May 12 08:02:16.831391 2022] [core:notice] [pid 1085:tid 140505276750912] AH00094: Command line: '/usr/sbin/apache2'
